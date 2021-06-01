@@ -77,5 +77,6 @@ export default {
 .info-alert {
   margin: 20px;
   padding: 20px;
+  width: 90% !important;
 }
 </style>
